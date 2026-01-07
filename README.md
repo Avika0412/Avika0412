@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms with C++**
 
-- 🌱 I’m currently learning **C++/DSA/C**
+- 🌱 I’m currently learning **C++/DSA/C/AI/ML**
 
 - 👯 I’m looking to collaborate on **beginner friendly Github Projects**
 
